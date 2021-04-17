@@ -1,5 +1,7 @@
 # Vite + React + TypeScript + Tailwind
 
+![Screen Shot](./ScreenShot.png)
+
 ## Installation
 
 ```shell
