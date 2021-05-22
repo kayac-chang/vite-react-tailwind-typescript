@@ -5,7 +5,7 @@
 ## Installation
 
 ```shell
-npx degit vite-react-tailwind-typescript my-awesome-project
+npx degit kayac-chang/vite-react-tailwind-typescript my-awesome-project
 cd my-awesome-project
 npm install
 ```
